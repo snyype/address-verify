@@ -21,7 +21,7 @@ const Home: React.FC = () => {
                 height={100}
               />
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-brand">
-                Address Verifier
+                Address Validator
               </h2>
             </div>
             <p className="text-gray-700 max-w-2xl text-base lg:text-lg mx-auto">
