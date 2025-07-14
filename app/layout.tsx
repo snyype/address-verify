@@ -9,7 +9,7 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Aussure Address",
+  title: "Address Validator",
   description:
     "Verify addresses and search locations with GraphQL and Google Maps",
   icons: {
